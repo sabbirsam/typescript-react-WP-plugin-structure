@@ -1,0 +1,14 @@
+/******************************************************
+All the default css will place here...
+******************************************************/
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div#simpleform-app-root {
+    overflow: hidden;
+}
